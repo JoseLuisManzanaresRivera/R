@@ -5,7 +5,7 @@ title: "José Luis Manzanares Rivera"
 
 knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558121560/aavatar_jz1beq.jpg")
 ```
-
+hhhhhhó´poóó
 
 *"Generando investigación aplicada mediante el análisis de datos"* 
 
