@@ -2,7 +2,7 @@
 title: "Contacto"
 ---
 
-Jos?? Luis Manzanares Rivera.
+José Luis Manzanares Rivera.
 
 email: jlmanzanares@colef.mx
 
