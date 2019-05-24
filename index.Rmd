@@ -7,7 +7,6 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v15581
 ```
 
 
-
 *"Generando investigación aplicada mediante el análisis de datos"* 
 
 ## Lineas de Investigación:
