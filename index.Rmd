@@ -1,5 +1,5 @@
 ---
-title: "Jose Luis Manzanares Rivera"
+title: "José Luis Manzanares Rivera"
 ---
 ```{r,echo = FALSE,out.width = "100px"}
 
