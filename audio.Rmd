@@ -1,0 +1,17 @@
+---
+title: "Podcast"
+---
+
+### Día Mundial del Agua. Instituto Mexicano de la Radio IMER.
+
+![](IMER.mp3)
+
+
+
+
+## Radio Colmich.
+
+```{r,echo = FALSE ,out.width = "400px"}
+
+knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558633624/saludenlafrontera_lmnand.png")
+```
