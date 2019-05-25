@@ -6,9 +6,14 @@ title: "Podcast"
 
 ![](IMER.mp3)
 
-![Radio Colmich.Radio UABC Frontera Común](fronteracomun23may2019.mp3)
 
 ```{r,echo = FALSE ,out.width = "400px"}
 
 knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558633624/saludenlafrontera_lmnand.png")
 ```
+
+
+![Radio Colmich.Radio UABC Frontera Común](fronteracomun23may2019.mp3)
+
+
+[Notas de difusión](https://www.colef.mx/estemes/las-causas-detras-de-las-causas-de-la-diabetes/)
