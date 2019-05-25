@@ -6,6 +6,11 @@ title: "Cursos"
 *Semestre 2019-02*  
 Colef Tijuana.
 
+```{r,echo = FALSE ,out.width = "200px"}
+
+knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558763684/foto_7_wtlm4c.jpg")
+```
+
 *2018* Teoría Económica.  Maestría en Desarrollo Regional.       *Semestre 2018-01* 
 
 Colef Tijuana.
