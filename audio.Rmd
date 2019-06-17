@@ -19,5 +19,5 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v15586
 
 
 
-[Notas de difusión Lajornada](https://www.jornada.com.mx/2019/06/16/sociedad/030n1soc#)
+[La Jornada](https://www.jornada.com.mx/2019/06/16/sociedad/030n1soc#)
 
